@@ -17,7 +17,7 @@ cmd({
 
     if (!match.quoted) {
       return await client.sendMessage(from, {
-        text: "*🍁 Please reply to a view once message!*"
+        text: "*🍁 Please FTGM Sir reply to a view once message!*"
       }, { quoted: message });
     }
 
