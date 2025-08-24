@@ -10,7 +10,7 @@ cmd({
     use: '.menu2',
     desc: "Show all bot commands",
     category: "menu",
-    react: "📜",
+    react: "🔥",
     filename: __filename
 }, 
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
@@ -27,7 +27,8 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
 ╭━━〔 📥 *FTGM KING BOT* 〕━━┈⊷
 ┃◈╭─────────────────·๏
-┃◈┃Join Now : https://whatsapp.com/channel/0029VbAzazM2kNFp4p1qIZ2P
+┃◈┃Join Now :
+     https://whatsapp.com/channel/0029VbAzazM2kNFp4p1qIZ2P
 ┃◈╰─────────────────┈⊷
 ╰━━━━━━━━━━━━━━━━━━━┈⊷
 
@@ -315,7 +316,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363318478753709@newsletter',
+                        newsletterJid: '',
                         newsletterName: config.BOT_NAME,
                         serverMessageId: 143
                     }
