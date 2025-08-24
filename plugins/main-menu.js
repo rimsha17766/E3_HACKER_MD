@@ -25,33 +25,9 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃◈╰─────────────────┈⊷
 ╰━━━━━━━━━━━━━━━━━━━┈⊷
 
-╭━━〔 📥 *DOWNLOAD MENU* 〕━━┈⊷
+╭━━〔 📥 *FTGM KING BOT* 〕━━┈⊷
 ┃◈╭─────────────────·๏
-┃◈┃• 🟦 facebook
-┃◈┃• 📁 mediafire
-┃◈┃• 🎵 tiktok
-┃◈┃• 🐦 twitter
-┃◈┃• 📷 insta
-┃◈┃• 📦 apk
-┃◈┃• 🖼️ img
-┃◈┃• ▶️ tt2
-┃◈┃• 📌 pins
-┃◈┃• 🔄 apk2
-┃◈┃• 🔵 fb2
-┃◈┃• 📍 pinterest
-┃◈┃• 🎶 spotify
-┃◈┃• 🎧 play
-┃◈┃• 🎧 play2
-┃◈┃• 🔉 audio
-┃◈┃• 🎬 video
-┃◈┃• 📹 video2
-┃◈┃• 🎵 ytmp3
-┃◈┃• 📹 ytmp4
-┃◈┃• 🎶 song
-┃◈┃• 🎬 darama
-┃◈┃• ☁️ gdrive
-┃◈┃• 🌐 ssweb
-┃◈┃• 🎵 tiks
+┃◈┃Join Now : https://whatsapp.com/channel/0029VbAzazM2kNFp4p1qIZ2P
 ┃◈╰─────────────────┈⊷
 ╰━━━━━━━━━━━━━━━━━━━┈⊷
 
@@ -78,19 +54,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃◈┃• ⏳ disappear 7D,24H
 ┃◈┃• 📝 allreq
 ┃◈┃• ✏️ updategname
-┃◈┃• 📝 updategdesc
-┃◈┃• 📩 joinrequests
-┃◈┃• 📨 senddm
-┃◈┃• 🏃 nikal
-┃◈┃• 🔇 mute
-┃◈┃• 🔊 unmute
-┃◈┃• 🔒 lockgc
-┃◈┃• 🔓 unlockgc
-┃◈┃• 📩 invite
-┃◈┃• #️⃣ tag
-┃◈┃• 🏷️ hidetag
-┃◈┃• @️⃣ tagall
-┃◈┃• 👔 tagadmins
+┃◈┃
 ┃◈╰─────────────────┈⊷
 ╰━━━━━━━━━━━━━━━━━━━┈⊷
 
@@ -344,7 +308,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: config.MENU_IMAGE_URL || 'https://files.catbox.moe/yj7zp0.png' },
+                image: { url: config.MENU_IMAGE_URL || 'https://i.postimg.cc/pXfzRxjh/FTGM-LOGO.png' },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
